@@ -2,7 +2,9 @@
 
 I have been a developer for years. Most of my recent development has happened on Bitbucket so don't let my GitHub activity log mislead you. See 2017 for an activity chart where I primarily used github.
 
-### 🔭 I'm currently working with:
+Professionally I have helped create many startups as part of small engineering teams.
+
+### 🔭 Technologies I use every day:
 
 - Python - It's so good at _everything_
 - AI Inference (Stable Diffusion / LLMS such as ChatGPT) - I have been a long time AI independent researcher and I am continously amazed.
@@ -10,7 +12,7 @@ I have been a developer for years. Most of my recent development has happened on
 - AI Training with PyTorch - See my trained stable diffusion loras at https://ntcai.xyz
 - Grafana - financial reports that run every 5 minutes, product health reports among others.
 
-### 🌱 I've professionally used the following technologies for software hosting:
+### 🌱 I've professionally used the following technologies to help startups:
 
 - Ruby/rails - went to the first railsconf, long time builder/consultant across many startups.
 - Docker - custom deployment for my apps that serve thousands of users daily.
