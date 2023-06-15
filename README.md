@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there, my name is Mikkel Garcia (pronounced Michael) 👋 
 
-<!--
-**mikkel/mikkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been a developer for years. Most of my recent development has happened on Bitbucket so don't let my GitHub activity log mislead you. See 2017 for an activity chart where I primarily used github.
 
-Here are some ideas to get you started:
+### 🔭 I'm currently working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python - It's so good at _everything_
+- AI Inference (Stable Diffusion / LLMS such as ChatGPT) - I have been a long time AI independent researcher and I am continously amazed.
+- JavaScript - I have a history with coffeescript and node as well. Javascript is everywhere.
+- AI Training with PyTorch - See my trained stable diffusion loras at https://ntcai.xyz
+- Grafana - financial reports that run every 5 minutes, product health reports among others.
+
+### 🌱 I've professionally used the following technologies for software hosting:
+
+- Ruby/rails - went to the first railsconf, long time builder/consultant across many startups.
+- Docker - custom deployment for my apps that serve thousands of users daily.
+- HTMX - used on nftcardx.com (web3 card listing site) 
+- Postgres/MariaDB - served millions of records and created domain object models
+
+### 👯 Technologies I occasionally maintain:
+
+- PHP - no comment 😉
+- React - I prefer simpler in practice
+- CouchDB - a lesser known but very cool datastore
+
+I am an AI-first developer and have co-founded [255 Labs](https://255labs.xyz). I am pro-cryptocurrency as a technology. It's currently hard to separate the financial parts from actual benefits but it is that way with all new technology before it is refined.
+
+### 📫 You can also find me on:
+- [GitHub](https://github.com/ntc-ai) (less professional account)
