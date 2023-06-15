@@ -28,4 +28,6 @@ Professionally I have helped create many startups as part of small engineering t
 I am an AI-first developer and have co-founded [255 Labs](https://255labs.xyz). I am pro-cryptocurrency as a technology. It's currently hard to separate the financial parts of cryptocurrency from actual benefits but it is that way with all new technology before it is refined.
 
 ### 📫 You can also find me on:
-- [GitHub ntc-ai](https://github.com/ntc-ai) (art account)
+- [ntcai.xyz](https://ntcai.xyz) (art)
+- [GitHub ntc-ai](https://github.com/ntc-ai) (art github account)
+- [255labs.xyz](https://255labs.xyz) (cofounder of consulting/product company)
