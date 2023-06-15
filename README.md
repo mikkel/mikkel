@@ -20,10 +20,10 @@ I have been a developer for years. Most of my recent development has happened on
 ### 👯 Technologies I occasionally maintain:
 
 - PHP - no comment 😉
-- React - I prefer simpler in practice
-- CouchDB - a lesser known but very cool datastore
+- React - Good but I prefer simpler in practice
+- CouchDB - a lesser known but very cool datastore using javascript and json
 
-I am an AI-first developer and have co-founded [255 Labs](https://255labs.xyz). I am pro-cryptocurrency as a technology. It's currently hard to separate the financial parts from actual benefits but it is that way with all new technology before it is refined.
+I am an AI-first developer and have co-founded [255 Labs](https://255labs.xyz). I am pro-cryptocurrency as a technology. It's currently hard to separate the financial parts of cryptocurrency from actual benefits but it is that way with all new technology before it is refined.
 
 ### 📫 You can also find me on:
-- [GitHub](https://github.com/ntc-ai) (less professional account)
+- [GitHub ntc-ai](https://github.com/ntc-ai) (art account)
