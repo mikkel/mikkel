@@ -17,7 +17,7 @@ I have been a developer for years. Most of my recent development has happened on
 - HTMX - used on nftcardx.com (web3 card listing site) 
 - Postgres/MariaDB - served millions of records and created domain object models
 
-### 👯 Technologies I occasionally maintain:
+### Technologies I use to maintain existing projects:
 
 - PHP - no comment 😉
 - React - Good but I prefer simpler in practice
