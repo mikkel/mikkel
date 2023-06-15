@@ -1,4 +1,4 @@
-## Hi there, my name is Mikkel Garcia (pronounced Michael) 👋 
+## Hi there, I am Mikkel Garcia (pronounced Michael) 👋 
 
 I have been a developer for years. Most of my recent development has happened on Bitbucket so don't let my GitHub activity log mislead you. See 2017 for an activity chart where I primarily used github.
 
