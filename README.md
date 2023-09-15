@@ -7,24 +7,18 @@ I'm interested in helping startups or small teams develop cool things. If this i
 
 ### 🌱 Technologies I've used professionally to build things or help startups:
 
-- *Python* - Used in web development, ml work, and many small scripts.
-- *AI Inference* (Stable Diffusion / LLMS such as ChatGPT) - I have been a long time AI independent researcher and I am continously amazed.
-- *JavaScript/nodejs/coffeescript* - Javascript is everywhere.
-- *AI Training with PyTorch/tensorflow* - See my trained stable diffusion loras at https://ntcai.xyz
-- *Grafana/Prometheus* - financial reports that run every 5 minutes, product health reports among others.
-- *Ruby/rails* - went to the first railsconf, long time builder/consultant across many startups.
-- *Docker/docker swarm* - custom deployment for my apps that serve thousands of users daily.
-- *HTMX* - used on nftcardx.com (web3 card listing site) 
-- *Postgres/MariaDB* - SQL is everywhere.
-- *React* - React can be powerful but it also can lead to leaky abstractions. I generally prefer simpler frameworks but there is no denying the success.
-- *PHP/jQuery* - no comment 😉
-- *CouchDB* - a lesser known but very cool datastore using javascript and json
-
-### Vision & Future Outlook
-
-* Picking up AI has never been more important. The trend has been clear for years.
-* I am pro-cryptocurrency as a technology and social movement. Proof of work needs to be refactored and crypto should embrace technological advances.
-* The future is individualized, generated and amazing.
+- **Python** - Used in web development, ml work, and many small scripts.
+- **JavaScript/nodejs/coffeescript** - Released multiple production nodejs apps.
+- **AI Inference (Stable Diffusion / LLMS such as ChatGPT)** - I am an independent AI researcher and am continously amazed.
+- **AI Training with PyTorch/tensorflow** - See my trained stable diffusion loras at https://ntcai.xyz
+- **Grafana/Prometheus** - Financial reports that run every 5 minutes, product health reports among others.
+- **Ruby/rails** - Attended the first railsconf, long time builder/consultant across many startups.
+- **Docker/docker swarm** - Custom deployment for my apps that serve thousands of users daily.
+- **HTMX** - Used on nftcardx.com among other projects.
+- **Postgres/MariaDB** - Several projects deployed using SQL.
+- **React** - Used in multiple live applications. Can lead to leaky abstractions and hard to debug issues but it also can be very readable and well abstracted.
+- **PHP/jQuery** - Maintained application for several years and have developed a wordpress plugin.
+- **CouchDB** - Live for several years, this nosql database is powerful.
 
 *e/acc*
 
