@@ -7,18 +7,18 @@ I'm interested in helping startups or small teams develop cool things. If this i
 
 ### 🌱 Technologies I've used professionally to build things or help startups:
 
-- Python - I used to reach for Ruby for small scripts, but now I reach for Python.
-- AI Inference (Stable Diffusion / LLMS such as ChatGPT) - I have been a long time AI independent researcher and I am continously amazed.
-- JavaScript - I have a history with coffeescript and node as well. Javascript is everywhere.
-- AI Training with PyTorch - See my trained stable diffusion loras at https://ntcai.xyz
-- Grafana - financial reports that run every 5 minutes, product health reports among others.
-- Ruby/rails - went to the first railsconf, long time builder/consultant across many startups.
-- Docker - custom deployment for my apps that serve thousands of users daily.
-- HTMX - used on nftcardx.com (web3 card listing site) 
-- Postgres/MariaDB - SQL is everywhere.
-- React - React can be powerful but it also can lead to leaky abstractions. I generally prefer simpler frameworks but there is no denying the success.
-- PHP/jQuery - no comment 😉
-- CouchDB - a lesser known but very cool datastore using javascript and json
+- *Python* - Used in web development, ml work, and many small scripts.
+- *AI Inference* (Stable Diffusion / LLMS such as ChatGPT) - I have been a long time AI independent researcher and I am continously amazed.
+- *JavaScript/nodejs/coffeescript* - Javascript is everywhere.
+- *AI Training with PyTorch/tensorflow* - See my trained stable diffusion loras at https://ntcai.xyz
+- *Grafana/Prometheus* - financial reports that run every 5 minutes, product health reports among others.
+- *Ruby/rails* - went to the first railsconf, long time builder/consultant across many startups.
+- *Docker/docker swarm* - custom deployment for my apps that serve thousands of users daily.
+- *HTMX* - used on nftcardx.com (web3 card listing site) 
+- *Postgres/MariaDB* - SQL is everywhere.
+- *React* - React can be powerful but it also can lead to leaky abstractions. I generally prefer simpler frameworks but there is no denying the success.
+- *PHP/jQuery* - no comment 😉
+- *CouchDB* - a lesser known but very cool datastore using javascript and json
 
 ### Vision & Future Outlook
 
