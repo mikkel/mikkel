@@ -10,7 +10,7 @@ I'm interested in helping startups or small teams develop cool things. If this i
 - **Python** - Used in web development, ml work, and many small scripts.
 - **JavaScript/nodejs/coffeescript** - Released multiple production nodejs apps.
 - **AI Inference (Stable Diffusion / LLMS such as ChatGPT)** - I am an independent AI researcher and am continously amazed.
-- **AI Training with PyTorch/tensorflow** - See my trained stable diffusion loras at https://ntcai.xyz
+- **AI Training with PyTorch/tensorflow** - See my trained stable diffusion loras at https://sliders.ntcai.xyz
 - **Grafana/Prometheus** - Financial reports that run every 5 minutes, product health reports among others.
 - **Ruby/rails** - Attended the first railsconf, long time builder/consultant across many startups.
 - **Docker/docker swarm** - Custom deployment for my apps that serve thousands of users daily.
@@ -23,6 +23,5 @@ I'm interested in helping startups or small teams develop cool things. If this i
 *e/acc*
 
 ### 📫 You can also find me on:
-- [ntcai.xyz](https://ntcai.xyz) (art)
-- [GitHub ntc-ai](https://github.com/ntc-ai) (art github account)
 - [255labs.xyz](https://255labs.xyz) (cofounder of consulting/product company)
+- [GitHub ntc-ai](https://github.com/ntc-ai) (art github account)
