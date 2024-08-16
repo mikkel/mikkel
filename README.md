@@ -2,6 +2,7 @@
 
 Professionally I have helped create many startups as part of small engineering teams.
 As a startup cofounder I have deployed apps to multiple marketplaces, supported hundreds of saas customers and tens of thousands of daily active users.
+As an AI developer my models have been used millions of times.
 
 I'm interested in helping startups or small teams develop cool things. If this is something you are looking for, please feel free to email - mikkel AT 255bits DOT com.
 
@@ -14,7 +15,7 @@ I'm interested in helping startups or small teams develop cool things. If this i
 - **Grafana/Prometheus** - Financial reports that run every 5 minutes, product health reports among others.
 - **Ruby/rails** - Attended the first railsconf, long time builder/consultant across many startups.
 - **Docker/docker swarm** - Custom deployment for my apps that serve thousands of users daily.
-- **HTMX** - Used on nftcardx.com among other projects.
+- **HTMX** - Used on getaiceo.com among other projects.
 - **Postgres/MariaDB** - Several projects deployed using SQL.
 - **React** - Used in multiple live applications. Can lead to leaky abstractions and hard to debug issues but it also can be very readable and well abstracted.
 - **PHP/jQuery** - Maintained application for several years and have developed a wordpress plugin.
