@@ -1,28 +1,22 @@
-## Hi there, I am Mikkel Garcia (pronounced Michael) 👋 
+## Hi, I'm Mikkel Garcia (pronounced Michael) 👋
 
-Professionally I have helped create many startups as part of small engineering teams.
-As a startup cofounder I have deployed apps to multiple marketplaces, supported hundreds of saas customers and tens of thousands of daily active users.
-As an AI developer my models have been used millions of times.
+I build AI-first products with small teams and ship them to real users. Cofounder at [255labs](https://255labs.xyz), where we help startups build with AI. Twenty years of shipping for startups — from the first RailsConf to training diffusion models.
 
-I'm interested in helping startups or small teams develop cool things. If this is something you are looking for, please feel free to email - mikkel AT 255bits DOT com.
+### 🔨 Building now
 
-### 🌱 Technologies I've used professionally to build things or help startups:
+- **[nanoodle](https://nanoodle.com)** — wire text, image, video, and audio models together on a node canvas, then save the result as a tiny web app you can share. Runs entirely in your browser: no servers, no signup, no analytics — bring your own [NanoGPT](https://nano-gpt.com) key.
+- **[patchling](https://patchling.app)** — edit codebases with natural language via AI-generated diffs. Available in [Python](https://github.com/255BITS/patchling-py) and [browser-first JavaScript](https://github.com/255BITS/patchling).
 
-- **Python** - Used in web development, ml work, and many small scripts.
-- **JavaScript/nodejs/coffeescript** - Released multiple production nodejs apps.
-- **AI Inference (Stable Diffusion / LLMS such as ChatGPT)** - I am an independent AI researcher and am continously amazed.
-- **AI Training with PyTorch/tensorflow** - See my trained stable diffusion loras at https://sliders.ntcai.xyz
-- **Grafana/Prometheus** - Financial reports that run every 5 minutes, product health reports among others.
-- **Ruby/rails** - Attended the first railsconf, long time builder/consultant across many startups.
-- **Docker/docker swarm** - Custom deployment for my apps that serve thousands of users daily.
-- **HTMX** - Used on getaiceo.com among other projects.
-- **Postgres/MariaDB** - Several projects deployed using SQL.
-- **React** - Used in multiple live applications. Can lead to leaky abstractions and hard to debug issues but it also can be very readable and well abstracted.
-- **PHP/jQuery** - Maintained application for several years and have developed a wordpress plugin.
-- **CouchDB** - Live for several years, this nosql database is powerful.
+### 🧪 Earlier work
 
-*e/acc*
+- **[HyperGAN](https://github.com/HyperGAN/HyperGAN)** — composable GAN training framework (1.1k ★).
+- **[NTC.AI sliders](https://sliders.ntcai.xyz)** — thousands of trained SDXL LoRA sliders, used millions of times.
+- **ComfyUI nodes** — [text overlay](https://github.com/mikkel/ComfyUI-text-overlay) and [mask bounding box](https://github.com/mikkel/comfyui-mask-boundingbox).
 
-### 📫 You can also find me on:
-- [255labs.xyz](https://255labs.xyz) (cofounder of consulting/product company)
-- [GitHub ntc-ai](https://github.com/ntc-ai) (art github account)
+### 📫 Reach me
+
+Building an AI product and want help shipping it? Email mikkel AT 255bits DOT com.
+
+- [255labs.xyz](https://255labs.xyz)
+- [@MikkelGarcia](https://twitter.com/MikkelGarcia) on X
+- [ntc-ai](https://github.com/ntc-ai) (art account)
