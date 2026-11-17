@@ -7,11 +7,7 @@ I build AI-first products with small teams and ship them to real users. Cofounde
 - **[nanoodle](https://nanoodle.com)** — wire text, image, video, and audio models together on a node canvas, then save the result as a tiny web app you can share. Runs entirely in your browser: no servers, no signup, no analytics — bring your own [NanoGPT](https://nano-gpt.com) key.
 - **[255labs.xyz](https://255labs.xyz)** — consulting and product studio: we help startups design, build, and ship AI products.
 - **[patchling](https://patchling.app)** — edit codebases with natural language via AI-generated diffs. Available in [Python](https://github.com/255BITS/patchling-py) and [browser-first JavaScript](https://github.com/255BITS/patchling).
-
-### 🧪 Earlier work
-
 - **[HyperGAN](https://github.com/HyperGAN/HyperGAN)** — composable GAN training framework (1.1k ★).
-- **[NTC.AI sliders](https://sliders.ntcai.xyz)** — thousands of trained SDXL LoRA sliders, used millions of times.
 - **ComfyUI nodes** — [text overlay](https://github.com/mikkel/ComfyUI-text-overlay) and [mask bounding box](https://github.com/mikkel/comfyui-mask-boundingbox).
 
 ### 📫 Reach me
