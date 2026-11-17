@@ -16,4 +16,3 @@ Building an AI product and want help shipping it? Email mikkel AT 255bits DOT co
 
 - [255labs.xyz](https://255labs.xyz)
 - [@MikkelGarcia](https://twitter.com/MikkelGarcia) on X
-- [ntc-ai](https://github.com/ntc-ai) (art account)
